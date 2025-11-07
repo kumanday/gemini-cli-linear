@@ -1,0 +1,9 @@
+{
+  "name": "linear",
+  "version": "0.1.0",
+  "mcpServers": {
+    "linear": {
+      "url": "https://mcp.linear.app/sse"
+    }
+  }
+}

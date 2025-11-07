@@ -1,0 +1,2 @@
+description = "Analyze projects and tasks and provide strategic assessment"
+prompt = "Analyze the projects and tasks in Linear and provide a strategic assessment for how to proceed."

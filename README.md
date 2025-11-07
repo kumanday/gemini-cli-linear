@@ -4,9 +4,13 @@ This extension integrates the Linear MCP server into Gemini CLI, allowing natura
 
 ## Installation
 
-1. Clone this repository.
-2. Install the extension: `pip install -e .`
-3. The extension will be loaded automatically if Gemini CLI supports entry points.
+Install the extension using Gemini CLI:
+
+```bash
+gemini extensions install https://github.com/kumanday/gemini-cli-linear
+```
+
+This will download and install the extension from the GitHub repository.
 
 ## Features
 
@@ -43,4 +47,4 @@ The extension uses the Linear MCP server, which provides tools such as:
 
 ## License
 
-[Add license if needed]# gemini-cli-linear
+This project is licensed under the terms of the MIT license.

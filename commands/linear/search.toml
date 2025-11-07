@@ -1,0 +1,2 @@
+description = "Search for issues with a pattern"
+prompt = "Search for issues in Linear with the following pattern: {args}"
